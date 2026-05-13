@@ -21,7 +21,7 @@ int main()
     //linear number
     for(int i=0; i < 3;i++){
         if (phoneNumbers[i] == keyNumber){
-                cout<<"Teeky number's found"<<endl;
+                cout<<"Lino number's found"<<endl;
                 break;
             } 
 
